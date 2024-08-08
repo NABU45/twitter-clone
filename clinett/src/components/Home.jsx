@@ -13,12 +13,12 @@ const Home = () => {
 
                 </dev>
                 <div role="main">
-                    <div className="flex">
+                    <div className="flex ">
                         <div className=''>
                             <HeroSection />
                         </div>
 
-                        <div className='flex justify-start'>
+                        <div className=" mr-96">
                             <MoreDetails />
                         </div>
                     </div>
